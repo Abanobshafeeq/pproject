@@ -7,6 +7,9 @@ body {
     .sidenav {
         padding-top: 15px;
     }
+    #ana1{
+        padding top :100 px;
+    }
 
     .sidenav a {
         font-size: 18px;
